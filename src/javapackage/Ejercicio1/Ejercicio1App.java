@@ -1,6 +1,6 @@
-package javapackage;
+package javapackage.Ejercicio1;
 
-public class Ejercicio1 {
+public class Ejercicio1App {
 
 	public static void main(String[] args) {
 		/*
@@ -22,7 +22,6 @@ resta, multiplicación, división y módulo (resto de la división).
 		System.out.println("La multiplicacion es igual a = "+ multi);
 		System.out.println("La division es igual a = " + div);
 		System.out.println("El modulo es igual a = " + res);
-
 	}
 
 }
