@@ -1,5 +1,11 @@
 package javapackage.Ejercicio1;
 
+/**
+ @author isabel Calzadilla
+ File: Ejercicio 1 sobre sintáxis Java
+ 
+ **/
+
 public class Ejercicio1App {
 
 	public static void main(String[] args) {

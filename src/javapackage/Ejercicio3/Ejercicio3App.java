@@ -1,6 +1,10 @@
 package javapackage.Ejercicio3;
+/**
+@author isabel Calzadilla
+File: Ejercicio 3 sobre sintáxis Java
 
-public class Ejercicio3 {
+**/
+public class Ejercicio3App {
 
 	public static void main(String[] args) {
 		/*3

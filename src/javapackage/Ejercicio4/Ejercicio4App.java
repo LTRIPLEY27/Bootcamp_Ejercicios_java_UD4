@@ -1,6 +1,10 @@
 package javapackage.Ejercicio4;
+/**
+@author isabel Calzadilla
+File: Ejercicio 4 sobre sintáxis Java
 
-public class Ejercicio4 {
+**/
+public class Ejercicio4App {
 
 	public static void main(String[] args) {
 		/*
@@ -24,7 +28,14 @@ N + 77 = 78
 N 3 = 75
 •
 N * 2 = 150
-EJERCICIOS*/
+//EJERCICIOS*/
+		
+		int N = 1;
+
+		System.out.println("El valor inicial de N = " + N);
+		System.out.println("El valor  de N + incremento = " + (N += 77));
+		System.out.println("El valor  de N - decremento = " + (N -= 3));
+		System.out.println("El valor  de N duplicado = " + (N *= 2));
 
 	}
 
